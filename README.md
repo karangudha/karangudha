@@ -67,13 +67,13 @@ Hi 👋 My name is Karan!
 
 <hr>
 
-## 🐍 Activity Graph
+<!-- ## 🐍 Activity Graph -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/k/k/output/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
-<hr>
+<!-- <hr> -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer" />
