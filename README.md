@@ -49,7 +49,7 @@ Hi 👋 My name is Karan!
 </details>
 
 <hr>
-
+<!-- 
 <!-- ## 📊 GitHub Stats
 
 <div align="center">
@@ -73,23 +73,9 @@ Hi 👋 My name is Karan!
   <img src="https://raw.githubusercontent.com/k/k/output/snake.svg" alt="Snake animation" />
 </div>
 
-<hr> -->
-
-## 🎵 What I'm Listening To
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lwickq2zd44bqxkfak1632fk7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
+<hr> --> -->
 
 <hr>
-
-## 😊 Current Mood
-
-<div align="center">
-  <img height="320" src="https://media1.tenor.com/m/rQny9TWXi0IAAAAd/yellow-dragon-nailong.gif" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer" />
