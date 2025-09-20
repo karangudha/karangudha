@@ -49,8 +49,8 @@ Hi 👋 My name is Karan!
 </details>
 
 <hr>
-<!-- 
-<!-- ## 📊 GitHub Stats
+
+## 📊 GitHub Stats
 
 <div align="center">
 <table>
@@ -72,8 +72,6 @@ Hi 👋 My name is Karan!
 <div align="center">
   <img src="https://raw.githubusercontent.com/k/k/output/snake.svg" alt="Snake animation" />
 </div>
-
-<hr> --> -->
 
 <hr>
 
